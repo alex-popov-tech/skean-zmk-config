@@ -24,7 +24,7 @@ include:
     artifact-name: skean_mx_right
   - board: skean_left
     cmake-args: -DCONFIG_ZMK_KEYBOARD_NAME=\"Skean_LP\"
-    artifact-name: skean_mx_left
+    artifact-name: skean_lp_left
   - board: skean_right
     cmake-args: -DCONFIG_ZMK_KEYBOARD_NAME=\"Skean_LP\"
-    artifact-name: skean_mx_right
+    artifact-name: skean_lp_right
